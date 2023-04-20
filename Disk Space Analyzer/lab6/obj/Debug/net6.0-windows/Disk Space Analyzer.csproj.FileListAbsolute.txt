@@ -1,0 +1,19 @@
+C:\Users\miki0\OneDrive\Pulpit\Visual\PwSG\Disk Space Analyzer\lab6\bin\Debug\net6.0-windows\Disk Space Analyzer.exe
+C:\Users\miki0\OneDrive\Pulpit\Visual\PwSG\Disk Space Analyzer\lab6\bin\Debug\net6.0-windows\Disk Space Analyzer.deps.json
+C:\Users\miki0\OneDrive\Pulpit\Visual\PwSG\Disk Space Analyzer\lab6\bin\Debug\net6.0-windows\Disk Space Analyzer.runtimeconfig.json
+C:\Users\miki0\OneDrive\Pulpit\Visual\PwSG\Disk Space Analyzer\lab6\bin\Debug\net6.0-windows\Disk Space Analyzer.dll
+C:\Users\miki0\OneDrive\Pulpit\Visual\PwSG\Disk Space Analyzer\lab6\bin\Debug\net6.0-windows\Disk Space Analyzer.pdb
+C:\Users\miki0\OneDrive\Pulpit\Visual\PwSG\Disk Space Analyzer\lab6\obj\Debug\net6.0-windows\Disk Space Analyzer.csproj.AssemblyReference.cache
+C:\Users\miki0\OneDrive\Pulpit\Visual\PwSG\Disk Space Analyzer\lab6\obj\Debug\net6.0-windows\lab6.Form1.resources
+C:\Users\miki0\OneDrive\Pulpit\Visual\PwSG\Disk Space Analyzer\lab6\obj\Debug\net6.0-windows\lab6.Form2.resources
+C:\Users\miki0\OneDrive\Pulpit\Visual\PwSG\Disk Space Analyzer\lab6\obj\Debug\net6.0-windows\Disk_Space_Analyzer.Properties.Resources.resources
+C:\Users\miki0\OneDrive\Pulpit\Visual\PwSG\Disk Space Analyzer\lab6\obj\Debug\net6.0-windows\Disk Space Analyzer.csproj.GenerateResource.cache
+C:\Users\miki0\OneDrive\Pulpit\Visual\PwSG\Disk Space Analyzer\lab6\obj\Debug\net6.0-windows\Disk Space Analyzer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miki0\OneDrive\Pulpit\Visual\PwSG\Disk Space Analyzer\lab6\obj\Debug\net6.0-windows\Disk Space Analyzer.AssemblyInfoInputs.cache
+C:\Users\miki0\OneDrive\Pulpit\Visual\PwSG\Disk Space Analyzer\lab6\obj\Debug\net6.0-windows\Disk Space Analyzer.AssemblyInfo.cs
+C:\Users\miki0\OneDrive\Pulpit\Visual\PwSG\Disk Space Analyzer\lab6\obj\Debug\net6.0-windows\Disk Space Analyzer.csproj.CoreCompileInputs.cache
+C:\Users\miki0\OneDrive\Pulpit\Visual\PwSG\Disk Space Analyzer\lab6\obj\Debug\net6.0-windows\Disk Space Analyzer.dll
+C:\Users\miki0\OneDrive\Pulpit\Visual\PwSG\Disk Space Analyzer\lab6\obj\Debug\net6.0-windows\refint\Disk Space Analyzer.dll
+C:\Users\miki0\OneDrive\Pulpit\Visual\PwSG\Disk Space Analyzer\lab6\obj\Debug\net6.0-windows\Disk Space Analyzer.pdb
+C:\Users\miki0\OneDrive\Pulpit\Visual\PwSG\Disk Space Analyzer\lab6\obj\Debug\net6.0-windows\Disk Space Analyzer.genruntimeconfig.cache
+C:\Users\miki0\OneDrive\Pulpit\Visual\PwSG\Disk Space Analyzer\lab6\obj\Debug\net6.0-windows\ref\Disk Space Analyzer.dll
